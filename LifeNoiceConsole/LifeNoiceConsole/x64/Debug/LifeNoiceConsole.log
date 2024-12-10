@@ -1,0 +1,6 @@
+﻿  LifeNoiceConsole.cpp
+F:\c++\reps\LifeNoiseConsole\LifeNoiceConsole\LifeNoiceConsole\LifeNoiceConsole.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\c++\reps\LifeNoiseConsole\LifeNoiceConsole\LifeNoiceConsole\LifeNoiceConsole.cpp(17,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+F:\c++\reps\LifeNoiseConsole\LifeNoiceConsole\LifeNoiceConsole\LifeNoiceConsole.cpp(18,11): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+F:\c++\reps\LifeNoiseConsole\LifeNoiceConsole\LifeNoiceConsole\LifeNoiceConsole.cpp(79,49): warning C4101: ex: неиспользованная локальная переменная
+  LifeNoiceConsole.vcxproj -> F:\c++\reps\LifeNoiseConsole\LifeNoiceConsole\x64\Debug\LifeNoiceConsole.exe
